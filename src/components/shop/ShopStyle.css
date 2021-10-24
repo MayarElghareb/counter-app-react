@@ -1,0 +1,8 @@
+.card {
+  width: 18rem;
+  height: 30rem;
+}
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
